@@ -38,8 +38,18 @@
   - [kyky.org](http://kyky.org/)
   - [tut.by](http://www.tut.by/)
   - [onliner.by](http://www.onliner.by/)
+  - [belta.by](http://www.belta.by/)
 
 * Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
   - [odnooknoonline.by](http://odnooknoonline.by/) универсальный сайт для жалоб на городские проблемы
   - [getbox.by](http://www.getbox.by/) покупка и доставка товаров из популярных интернет-магазинов США в Беларусь
+
+* Information
+  - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
+  - [pravo.by](http://www.pravo.by/) национальный правовой интернет-портал Республики Беларусь
+  - [belpost.by](http://belpost.by/) сайт белпочты
+  - [catalog.gov.by](http://www.catalog.gov.by/) Официальные Интернет-ресурсы Республики Беларусь
+  - [ncpi.gov.by](http://ncpi.gov.by/) национальный центр правовой информации Республики Беларусь
+  - [president.gov.by](http://www.president.gov.by/) официальный интернет-портал Президента Республики Беларусь
+  - [Государственные органы и организации Беларуси ](http://president.gov.by/ru/gosorgans_ru/) список госорганов Беларуси
