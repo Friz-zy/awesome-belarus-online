@@ -13,6 +13,7 @@
   - [falanster.by](http://falanster.by/ru) платформа развития гражданского общества
   - [ulej.by](http://ulej.by/) коллективное финансирование интересных проектов (croudfanding)
   - [Hackerspace](https://www.facebook.com/hs.minsk) независимый клуб технического творчества
+  - [bookcrossing.by](http://bookcrossing.by/) обмен книгами и книжный квест
 
 * Сommunity
   - [Python](https://www.facebook.com/MinskPythonMeetup) eжемесячные встречи любителей языка Python в Минске
@@ -24,6 +25,9 @@
   - [DevOps](https://www.facebook.com/groups/391132934426041/?ref=bookmarks) сообщество DevOps-специалистов Беларуси
   - [Game Jam](https://www.facebook.com/groups/ggjby) геймдизайн сообщество
   - [Linux](http://mlug.linux.by/) встречи Linux сообщества
+  - [CocoaHeads](http://cocoaheads.org/by/Minsk/index.html) сообщество iOS разработчиков
+  - [Scala](http://scala.by) сообщество разработчиков на scala
+  - [ModX](http://modx.by) сообщество пользователей ModX CMS
 
 * Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
