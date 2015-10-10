@@ -73,6 +73,7 @@
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
+  - [zvarot.by] (http://zvarot.by/) Электронные обращения в грсорганы Республики Беларусь
   - [pravo.by](http://www.pravo.by/) национальный правовой интернет-портал Республики Беларусь
   - [belpost.by](http://belpost.by/) сайт белпочты
   - [catalog.gov.by](http://www.catalog.gov.by/) Официальные Интернет-ресурсы Республики Беларусь
