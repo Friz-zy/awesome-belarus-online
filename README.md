@@ -43,6 +43,7 @@
   - [tut.by](http://www.tut.by/)
   - [onliner.by](http://www.onliner.by/)
   - [belta.by](http://www.belta.by/)
+  - [kaktutzhit.by](http://kaktutzhit.by/)
 
 * Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
