@@ -15,6 +15,16 @@
   - [Hackerspace](https://www.facebook.com/hs.minsk) независимый клуб технического творчества
   - [bookcrossing.by](http://bookcrossing.by/) обмен книгами и книжный квест
 
+* Сharities
+  - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
+  - [opeka.by](http://www.opeka.by/) международное благотворительное общественное объединение «ЮниХелп» (ранее «Здоровье в XXI век»)
+  - [pomogi.by](http://www.pomogi.by/) благотворительный фонд «Прикосновение к жизни»
+  - [kidsmentor.org](http://kidsmentor.org/) поиск, обучение и сопровождение наставников для детей-сирот
+  - [newhospice.by](http://newhospice.by/) Белорусский детский хоспис (строительство нового здания хосписа)
+  - [hospice.by](http://www.hospice.by) Белорусский детский хоспис
+  - [detdom2.org](http://detdom2.org/help.html) минский детский дом №2
+  - [Список зоозащитных организаций и инициатив](http://www.mesto-pod-solncem.org/2013/10/blog-post_21.html) помощь животным стартует отсюда
+
 * Сommunity
   - [Python](https://www.facebook.com/MinskPythonMeetup) eжемесячные встречи любителей языка Python в Минске
   - [Ruby](http://brug.by/) Ruby сообщество
