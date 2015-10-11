@@ -82,4 +82,4 @@
   - [Государственные органы и организации Беларуси ](http://president.gov.by/ru/gosorgans_ru/) список госорганов Беларуси
 
 ## Travel
-  - [vandrouki.by](http://vandrouki.by) Акции авиакомпании и способ летать почти бесплатно
+  - [vandrouki.by](http://vandrouki.by) Акции авиакомпаний и способы летать почти бесплатно
