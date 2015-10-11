@@ -25,6 +25,7 @@
   - [ulej.by](http://ulej.by/) коллективное финансирование интересных проектов (croudfanding)
   - [Hackerspace](https://www.facebook.com/hs.minsk) независимый клуб технического творчества
   - [bookcrossing.by](http://bookcrossing.by/) обмен книгами и книжный квест
+  - [urbanpunk.org](http://urbanpunk.org/) творческая студия urbanpunk.org объединяет архитекторов, дизайнеров и иллюстраторов
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
@@ -65,6 +66,8 @@
   - [onliner.by](http://www.onliner.by/)
   - [belta.by](http://www.belta.by/)
   - [kaktutzhit.by](http://kaktutzhit.by/)
+  - [belarusdigest.com](http://belarusdigest.com/)
+  - 
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
@@ -77,7 +80,10 @@
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
   - [pravo.by](http://www.pravo.by/) национальный правовой интернет-портал Республики Беларусь
   - [belpost.by](http://belpost.by/) сайт белпочты
-  - [catalog.gov.by](http://www.catalog.gov.by/) Официальные Интернет-ресурсы Республики Беларусь
+  - [en.wikipedia.org](https://en.wikipedia.org/wiki/Belarus) страница в английской википедии
+  - [belarustourism.by](http://belarustourism.by/) официальный сайт о туризме в Беларуси
+  - [belarus.by](http://www.belarus.by/ru/) оффициальный сайт Республики Беларусь
+  - [catalog.gov.by](http://www.catalog.gov.by/) официальные Интернет-ресурсы Республики Беларусь
   - [ncpi.gov.by](http://ncpi.gov.by/) национальный центр правовой информации Республики Беларусь
   - [president.gov.by](http://www.president.gov.by/) официальный интернет-портал Президента Республики Беларусь
   - [Государственные органы и организации Беларуси ](http://president.gov.by/ru/gosorgans_ru/) список госорганов Беларуси
