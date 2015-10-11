@@ -71,6 +71,7 @@
   - [zvarot.by] (http://zvarot.by/) электронные обращения в госорганы Республики Беларусь
   - [odnooknoonline.by](http://odnooknoonline.by/) универсальный сайт для жалоб на городские проблемы
   - [getbox.by](http://www.getbox.by/) покупка и доставка товаров из популярных интернет-магазинов США в Беларусь
+  - [vandrouki.by](http://vandrouki.by) Акции авиакомпаний и способы летать почти бесплатно
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
@@ -80,3 +81,4 @@
   - [ncpi.gov.by](http://ncpi.gov.by/) национальный центр правовой информации Республики Беларусь
   - [president.gov.by](http://www.president.gov.by/) официальный интернет-портал Президента Республики Беларусь
   - [Государственные органы и организации Беларуси ](http://president.gov.by/ru/gosorgans_ru/) список госорганов Беларуси
+
