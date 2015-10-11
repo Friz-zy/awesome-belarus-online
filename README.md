@@ -67,7 +67,6 @@
   - [belta.by](http://www.belta.by/)
   - [kaktutzhit.by](http://kaktutzhit.by/)
   - [belarusdigest.com](http://belarusdigest.com/)
-  - 
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
