@@ -57,6 +57,8 @@
   - [cech.by](https://www.facebook.com/cech.by) Искусство и развлечения, Площадка для мероприятий
   - [Балки](https://www.facebook.com/loftbalki) Лофт Проект БАЛКИ
   - [Бар «ДК»](https://www.facebook.com/domcult) Бар, Ночной клуб, Площадка для встреч
+  - [park.by](http://www.park.by/post-935/) инкубатор Парка Высоких Технологий
+  - [divan.diva.by](http://divan.diva.by/) детский центр
 
 ## Media
   - [dev.by](https://dev.by/)
@@ -73,11 +75,14 @@
   - [zvarot.by] (http://zvarot.by/) электронные обращения в госорганы Республики Беларусь
   - [odnooknoonline.by](http://odnooknoonline.by/) универсальный сайт для жалоб на городские проблемы
   - [getbox.by](http://www.getbox.by/) покупка и доставка товаров из популярных интернет-магазинов США в Беларусь
-  - [vandrouki.by](http://vandrouki.by) Акции авиакомпаний и способы летать почти бесплатно
+  - [vandrouki.by](http://vandrouki.by) акции авиакомпаний и способы летать почти бесплатно
+  - [carpool.by](http://www.carpool.by/) поиск попутчиков и попуток для поездок по Беларуси, Минску и за рубеж
+  - [минск.regiony.by/попутчики/](http://минск.regiony.by/%D0%BF%D0%BE%D0%BF%D1%83%D1%82%D1%87%D0%B8%D0%BA%D0%B8/)  платформа для создания альтернативы традиционным способам передвижения пассажирским транспортом между населёнными пунктами нашей страны
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
   - [pravo.by](http://www.pravo.by/) национальный правовой интернет-портал Республики Беларусь
+  - [regiony.by](http://regiony.by/) сеть городских порталов Беларуси с большим числом сервисов
   - [belpost.by](http://belpost.by/) сайт белпочты
   - [en.wikipedia.org](https://en.wikipedia.org/wiki/Belarus) страница в английской википедии
   - [belarustourism.by](http://belarustourism.by/) официальный сайт о туризме в Беларуси
