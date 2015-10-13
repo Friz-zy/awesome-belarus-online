@@ -59,6 +59,8 @@
   - [Бар «ДК»](https://www.facebook.com/domcult) Бар, Ночной клуб, Площадка для встреч
   - [park.by](http://www.park.by/post-935/) инкубатор Парка Высоких Технологий
   - [divan.diva.by](http://divan.diva.by/) детский центр
+  - [«Кто такой Джон Голт?»](https://www.facebook.com/john.galt.space.minsk) cвободное пространство
+  - [studio67](www.studio67.by) культурный центр в Минске, включающий в себя академию, съемочные студии, галерею мультимедиа, а также магазин книг, виниловых пластинок и арт-сувениров
 
 ## Media
   - [dev.by](https://dev.by/)
