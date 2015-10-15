@@ -36,6 +36,7 @@
   - [hospice.by](http://www.hospice.by) Белорусский детский хоспис
   - [detdom2.org](http://detdom2.org/help.html) минский детский дом №2
   - [Список зоозащитных организаций и инициатив](http://www.mesto-pod-solncem.org/2013/10/blog-post_21.html) помощь животным стартует отсюда
+  - [Список мест, где примут ненужную одежду](http://citydog.by/post/kufar-odezhda/) Куда нести ненужную одежду
 
 ## Сommunity
   - [Python](https://www.facebook.com/MinskPythonMeetup) eжемесячные встречи любителей языка Python в Минске
