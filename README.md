@@ -73,6 +73,9 @@
   - [belta.by](http://www.belta.by/)
   - [kaktutzhit.by](http://kaktutzhit.by/)
   - [belarusdigest.com](http://belarusdigest.com/)
+  - [nn.by](http://nn.by/)
+  - [euroradio.fm](http://euroradio.fm/)
+  - [svaboda.org](http://www.svaboda.org/)
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
