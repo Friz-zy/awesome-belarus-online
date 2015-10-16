@@ -26,6 +26,7 @@
   - [Hackerspace](https://www.facebook.com/hs.minsk) независимый клуб технического творчества
   - [bookcrossing.by](http://bookcrossing.by/) обмен книгами и книжный квест
   - [urbanpunk.org](http://urbanpunk.org/) творческая студия urbanpunk.org объединяет архитекторов, дизайнеров и иллюстраторов
+  - [belarusbezgranic](https://www.facebook.com/belarusbezgranic/) попытка объединить белорусов всего мира
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
