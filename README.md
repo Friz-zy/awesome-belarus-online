@@ -81,10 +81,12 @@
   - [vandrouki.by](http://vandrouki.by) акции авиакомпаний и способы летать почти бесплатно
   - [carpool.by](http://www.carpool.by/) поиск попутчиков и попуток для поездок по Беларуси, Минску и за рубеж
   - [минск.regiony.by/попутчики/](http://минск.regiony.by/%D0%BF%D0%BE%D0%BF%D1%83%D1%82%D1%87%D0%B8%D0%BA%D0%B8/)  платформа для создания альтернативы традиционным способам передвижения пассажирским транспортом между населёнными пунктами нашей страны
+  - [assistent.by](http://assistent.by/) онлайн-бухгалтерия, обслуживание бизнеса
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
   - [pravo.by](http://www.pravo.by/) национальный правовой интернет-портал Республики Беларусь
+  - [etalonline.by](http://www.etalonline.by) поиск правовой информации, в тесном контакте с pravo.by
   - [regiony.by](http://regiony.by/) сеть городских порталов Беларуси с большим числом сервисов
   - [belpost.by](http://belpost.by/) сайт белпочты
   - [en.wikipedia.org](https://en.wikipedia.org/wiki/Belarus) страница в английской википедии
@@ -94,4 +96,4 @@
   - [ncpi.gov.by](http://ncpi.gov.by/) национальный центр правовой информации Республики Беларусь
   - [president.gov.by](http://www.president.gov.by/) официальный интернет-портал Президента Республики Беларусь
   - [Государственные органы и организации Беларуси ](http://president.gov.by/ru/gosorgans_ru/) список госорганов Беларуси
-
+  - [gb.by](http://www.gb.by/) бухгалтерский портал
