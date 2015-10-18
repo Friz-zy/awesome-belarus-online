@@ -52,6 +52,8 @@
   - [CocoaHeads](http://cocoaheads.org/by/Minsk/index.html) сообщество iOS разработчиков
   - [Scala](http://scala.by) сообщество разработчиков на scala
   - [ModX](http://modx.by) сообщество пользователей ModX CMS
+  - [Azure](https://www.facebook.com/groups/AzureBelarus/) сообщество Microsoft Azure
+  - [opendataby](https://www.facebook.com/groups/opendataby/) проекты, связанные с open data
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
