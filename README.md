@@ -27,6 +27,7 @@
   - [bookcrossing.by](http://bookcrossing.by/) обмен книгами и книжный квест
   - [urbanpunk.org](http://urbanpunk.org/) творческая студия urbanpunk.org объединяет архитекторов, дизайнеров и иллюстраторов
   - [belarusbezgranic](https://www.facebook.com/belarusbezgranic/) попытка объединить белорусов всего мира
+  - [Навука на балоце](https://vk.com/public101385852) старонка пра жыццё і навуку
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
