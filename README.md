@@ -62,7 +62,7 @@
   - [imaguru.co](https://www.facebook.com/imaguruby) Бизнес-Клуб/Startup Hub
   - [cech.by](https://www.facebook.com/cech.by) Искусство и развлечения, Площадка для мероприятий
   - [Балки](https://www.facebook.com/loftbalki) Лофт Проект БАЛКИ
-  - [Бар «ДК»](https://www.facebook.com/domcult) Бар, Ночной клуб, Площадка для встреч
+  - [Бар «ДК»](https://www.facebook.com/domcult) **ЗАКРЫТ =(** Бар, Ночной клуб, Площадка для встреч
   - [park.by](http://www.park.by/post-935/) инкубатор Парка Высоких Технологий
   - [divan.diva.by](http://divan.diva.by/) детский центр
   - [«Кто такой Джон Голт?»](https://www.facebook.com/john.galt.space.minsk) cвободное пространство
