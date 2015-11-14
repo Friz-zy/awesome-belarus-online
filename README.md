@@ -81,6 +81,7 @@
   - [nn.by](http://nn.by/)
   - [euroradio.fm](http://euroradio.fm/)
   - [svaboda.org](http://www.svaboda.org/)
+  - [ideaby.org](http://ideaby.org/)
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
