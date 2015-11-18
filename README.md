@@ -62,7 +62,6 @@
   - [imaguru.co](https://www.facebook.com/imaguruby) Бизнес-Клуб/Startup Hub
   - [cech.by](https://www.facebook.com/cech.by) Искусство и развлечения, Площадка для мероприятий
   - [Балки](https://www.facebook.com/loftbalki) Лофт Проект БАЛКИ
-  - [Бар «ДК»](https://www.facebook.com/domcult) **ЗАКРЫТ =(** Бар, Ночной клуб, Площадка для встреч
   - [park.by](http://www.park.by/post-935/) инкубатор Парка Высоких Технологий
   - [divan.diva.by](http://divan.diva.by/) детский центр
   - [«Кто такой Джон Голт?»](https://www.facebook.com/john.galt.space.minsk) cвободное пространство
@@ -87,7 +86,6 @@
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
   - [zvarot.by] (http://zvarot.by/) электронные обращения в госорганы Республики Беларусь
   - [odnooknoonline.by](http://odnooknoonline.by/) универсальный сайт для жалоб на городские проблемы
-  - [getbox.by](http://www.getbox.by/) покупка и доставка товаров из популярных интернет-магазинов США в Беларусь
   - [vandrouki.by](http://vandrouki.by) акции авиакомпаний и способы летать почти бесплатно
   - [carpool.by](http://www.carpool.by/) поиск попутчиков и попуток для поездок по Беларуси, Минску и за рубеж
   - [минск.regiony.by/попутчики/](http://минск.regiony.by/%D0%BF%D0%BE%D0%BF%D1%83%D1%82%D1%87%D0%B8%D0%BA%D0%B8/)  платформа для создания альтернативы традиционным способам передвижения пассажирским транспортом между населёнными пунктами нашей страны
