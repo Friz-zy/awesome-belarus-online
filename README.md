@@ -81,6 +81,7 @@
   - [euroradio.fm](http://euroradio.fm/)
   - [svaboda.org](http://www.svaboda.org/)
   - [ideaby.org](http://ideaby.org/)
+  - [journalby.com](http://journalby.com/about-project)
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
