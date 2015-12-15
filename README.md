@@ -82,6 +82,7 @@
   - [svaboda.org](http://www.svaboda.org/)
   - [ideaby.org](http://ideaby.org/)
   - [journalby.com](http://journalby.com/about-project)
+  - [budzma.org](http://budzma.org/)
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
