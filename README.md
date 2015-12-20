@@ -84,6 +84,7 @@
   - [ideaby.org](http://ideaby.org/)
   - [journalby.com](http://journalby.com/about-project)
   - [budzma.org](http://budzma.org/)
+  - [impressors.by](http://impressors.by/)
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
@@ -100,6 +101,7 @@
   - [perehvat.gov.by](http://perehvat.gov.by/) «инструмент взаимодействия правоохранительных органов и общественности для противостояния правонарушениям при помощи сети Интернет»
   - [pravoedelo.by](http://pravoedelo.by/) юридические услуги в Минске в сфере предпринимательской деятельности
   - [argument.by](http://argument.by/) правовое сопровождение инвестиционных проектов на территории Республики Беларусь и содействии в разрешении экономических споров
+  - [daroo.by](http://daroo.by/) подарочные сертификаты для любого повода
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
