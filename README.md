@@ -29,6 +29,7 @@
   - [belarusbezgranic](https://www.facebook.com/belarusbezgranic/) попытка объединить белорусов всего мира
   - [Навука на балоце](https://vk.com/public101385852) старонка пра жыццё і навуку
   - [«Без візы»](http://www.novisa.by/) «Без візы» імкнецца прасоўваць ідэю адмены візаў паміж Беларуссю і іншымі еўрапейскімі краінамі
+  - [«Другой Мир»](http://www.bgclub.by/contacts/) клуб настольных игр в Минске
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
@@ -85,6 +86,7 @@
   - [journalby.com](http://journalby.com/about-project)
   - [budzma.org](http://budzma.org/)
   - [impressors.by](http://impressors.by/)
+  - [marketing.by](http://marketing.by)
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
