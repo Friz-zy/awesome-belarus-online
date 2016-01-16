@@ -110,6 +110,9 @@
   - [belpressa.by](http://www.belpressa.by) платформа для организации подписки, размещения рекламных объявлений и приема платежей за свои услуги для издательств
   - [карандаш](http://www.karandash.by/) печатный центр
   - [восьмерка](http://www.8tm.by), [skins.by](http://skins.by/), [nalepka.by](http://nalepka.by/) печатный салон
+  - [ИП либо ООО в РБ](http://lpc.by/) пошаговая инструкция
+  - [IT-Consult](http://it-consult.by/) профессиональный консалтинг и юридическое сопровождение START-UP проектов, IT-компаний, фрилансеров и бизнеса в Internet
+  - [Trust](http://trustlawfirm.by/) юридическая фирма
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
