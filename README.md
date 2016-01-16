@@ -56,11 +56,11 @@
   - [Scala](http://scala.by) сообщество разработчиков на scala
   - [ModX](http://modx.by) сообщество пользователей ModX CMS
   - [Azure](https://www.facebook.com/groups/AzureBelarus/) сообщество Microsoft Azure
-  - [opendataby](https://www.facebook.com/groups/opendataby/) проекты, связанные с open data
   - [comaqa.by](https://comaqa.by/) сообщество автоматизации тестирования и контроля качества (qa)
   - [Google Developer Group](https://www.facebook.com/groups/gdgminsk) некоммерческая группа разработчиков, которые хотят узнать больше о Google технологиях
 
 ## Playground
+  - [opendata.by](http://opendata.by) [FaceBook](https://www.facebook.com/groups/opendataby/) [Google Group](https://groups.google.com/forum/#!forum/opendata-belarus) Trello Gitter Slack Announces GitHub Twitter - датасеты и сообщество открытых данные Беларуси
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
   - [imaguru.co](https://www.facebook.com/imaguruby) Бизнес-Клуб/Startup Hub
   - [cech.by](https://www.facebook.com/cech.by) Искусство и развлечения, Площадка для мероприятий
