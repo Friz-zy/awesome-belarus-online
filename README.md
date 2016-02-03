@@ -72,22 +72,22 @@
   - [Галерэя сучаснага мастацтва “Ў”](http://www.ygallery.by/) aктыўная арт-пляцоўка для прэзентацыі актуальнага беларускага і еўрапейскага мастацтва
 
 ## Media
-  - [dev.by](https://dev.by/)
-  - [citydog.by](http://citydog.by/)
-  - [kyky.org](http://kyky.org/)
-  - [tut.by](http://www.tut.by/)
-  - [onliner.by](http://www.onliner.by/)
-  - [belta.by](http://www.belta.by/)
-  - [kaktutzhit.by](http://kaktutzhit.by/)
-  - [belarusdigest.com](http://belarusdigest.com/)
-  - [nn.by](http://nn.by/)
-  - [euroradio.fm](http://euroradio.fm/)
-  - [svaboda.org](http://www.svaboda.org/)
-  - [ideaby.org](http://ideaby.org/)
-  - [journalby.com](http://journalby.com/about-project)
-  - [budzma.org](http://budzma.org/)
-  - [impressors.by](http://impressors.by/)
-  - [marketing.by](http://marketing.by)
+  - [dev.by](https://dev.by/) ИТ в Беларуси
+  - [citydog.by](http://citydog.by/) Журнал о Минске
+  - [kyky.org](http://kyky.org/) Онлайн-журнал альтернативных мнений
+  - [tut.by](http://www.tut.by/) Популярный Белорусский онлайн Портал
+  - [onliner.by](http://www.onliner.by/) Прогрессивный онлайн портал
+  - [belta.by](http://www.belta.by/) Новостной ресурс
+  - [kaktutzhit.by](http://kaktutzhit.by/) Журнал о интересной и достойной жизни
+  - [belarusdigest.com](http://belarusdigest.com/) Новости и Аналитика Белорусской политики
+  - [nn.by](http://nn.by/) Первая булорусская газета
+  - [euroradio.fm](http://euroradio.fm/) Еврорадио
+  - [svaboda.org](http://www.svaboda.org/) Новостное Радио Свобода
+  - [ideaby.org](http://ideaby.org/) Онлайн журнал 
+  - [journalby.com](http://journalby.com/about-project) Независимый аналитический журнал
+  - [budzma.org](http://budzma.org/) Общественно-культурный ресурс “Будзьма беларусамі!”
+  - [impressors.by](http://impressors.by/) Идеи и новинки из мира развлечений
+  - [marketing.by](http://marketing.by) Новости рынка и продвижения
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
