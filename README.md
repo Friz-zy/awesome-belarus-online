@@ -59,6 +59,10 @@
   - [opendataby](https://www.facebook.com/groups/opendataby/) проекты, связанные с open data
   - [comaqa.by](https://comaqa.by/) сообщество автоматизации тестирования и контроля качества (qa)
   - [Google Developer Group](https://www.facebook.com/groups/gdgminsk) некоммерческая группа разработчиков, которые хотят узнать больше о Google технологиях
+  - [Web Not Bombs](https://www.facebook.com/groups/webnotbombs/) сообщество веб-дизайнеров и веб-разработчиков
+  - [.NET User Group](https://www.facebook.com/groups/dotnet.minsk/) сообщество .NET разработчиков
+  - [FuncBY](https://www.facebook.com/groups/funcby/) объединение белорусских сообществ функционального программирования
+  - [The Rolling Scopes](https://www.facebook.com/groups/TheRollingScopes/) сообщество фронтенд и JavaScript разработчиков
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
