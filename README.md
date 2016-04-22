@@ -20,9 +20,9 @@
   - [eventer.by](http://eventer.by/) IT и культурные события
 
 ## Social groups
-  - [talaka.by](http://www.talaka.by/) коллективное сотрудничество людей (croudfanding)
+  - [talaka.by](http://www.talaka.by/) коллективное сотрудничество людей (crowdfunding)
   - [falanster.by](http://falanster.by/ru) платформа развития гражданского общества
-  - [ulej.by](http://ulej.by/) коллективное финансирование интересных проектов (croudfanding)
+  - [ulej.by](http://ulej.by/) коллективное финансирование интересных проектов (crowdfunding)
   - [Hackerspace](https://www.facebook.com/hs.minsk) независимый клуб технического творчества
   - [bookcrossing.by](http://bookcrossing.by/) обмен книгами и книжный квест
   - [urbanpunk.org](http://urbanpunk.org/) творческая студия urbanpunk.org объединяет архитекторов, дизайнеров и иллюстраторов
