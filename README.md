@@ -92,6 +92,7 @@
   - [budzma.org](http://budzma.org/) Общественно-культурный ресурс “Будзьма беларусамі!”
   - [impressors.by](http://impressors.by/) Идеи и новинки из мира развлечений
   - [marketing.by](http://marketing.by) Новости рынка и продвижения
+  - [pret-a-portal.by](http://pret-a-portal.by) Медиапроект о белорусской моде
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
