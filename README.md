@@ -120,7 +120,6 @@
   - [Trust](http://trustlawfirm.by/) юридическая фирма
   - [traveling.by](http://traveling.by) агрегатор туристических фирм и туров
   - [holiday.by](http://www.holiday.by) туристический портал и агрегатор туров
-  - 
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
