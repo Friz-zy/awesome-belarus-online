@@ -93,6 +93,7 @@
   - [impressors.by](http://impressors.by/) Идеи и новинки из мира развлечений
   - [marketing.by](http://marketing.by) Новости рынка и продвижения
   - [pret-a-portal.by](http://pret-a-portal.by) Медиапроект о белорусской моде
+  - [34travel.by](https://34travel.by/) Интернет-журнал о новой культуре путешествий
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
@@ -117,6 +118,9 @@
   - [восьмерка](http://www.8tm.by), [skins.by](http://skins.by/), [nalepka.by](http://nalepka.by/) печатный салон
   - [IT-Consult](http://it-consult.by/) профессиональный консалтинг и юридическое сопровождение START-UP проектов, IT-компаний, фрилансеров и бизнеса в Internet
   - [Trust](http://trustlawfirm.by/) юридическая фирма
+  - [traveling.by](http://traveling.by) агрегатор туристических фирм и туров
+  - [holiday.by](http://www.holiday.by) туристический портал и агрегатор туров
+  - 
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
