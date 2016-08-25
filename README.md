@@ -94,6 +94,7 @@
   - [marketing.by](http://marketing.by) Новости рынка и продвижения
   - [pret-a-portal.by](http://pret-a-portal.by) Медиапроект о белорусской моде
   - [34travel.by](https://34travel.by/) Интернет-журнал о новой культуре путешествий
+  - [shakal.today](http://shakal.today) Авторский блог
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
