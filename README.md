@@ -95,6 +95,8 @@
   - [pret-a-portal.by](http://pret-a-portal.by) Медиапроект о белорусской моде
   - [34travel.by](https://34travel.by/) Интернет-журнал о новой культуре путешествий
   - [shakal.today](http://shakal.today) Авторский блог
+  - [probusiness.by](http://probusiness.by) Ресурс для всех, кто интересуется бизнесом в Беларуси
+  - [Belarus in English](http://belarusfeed.com/) English feed about Belarus from tut.by
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
