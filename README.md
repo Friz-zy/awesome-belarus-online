@@ -97,6 +97,8 @@
   - [shakal.today](http://shakal.today) Авторский блог
   - [probusiness.by](http://probusiness.by) Ресурс для всех, кто интересуется бизнесом в Беларуси
   - [Belarus in English](http://belarusfeed.com/) English feed about Belarus from tut.by
+  - [34mag.net](http://34mag.net/) Онлайн журнал
+  - [zautra.by](http://zautra.by) площадка для обсуждения будущего
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
