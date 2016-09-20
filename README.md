@@ -18,6 +18,7 @@
   - [afisha.tut.by](http://afisha.tut.by/) культурные события
   - [360.by](http://360.by/) культурные события
   - [eventer.by](http://eventer.by/) IT и культурные события
+  - [www.kv.by/event](http://www.kv.by/event) IT и бизнес события
 
 ## Social groups
   - [talaka.by](http://www.talaka.by/) коллективное сотрудничество людей (crowdfunding)
@@ -30,6 +31,8 @@
   - [Навука на балоце](https://vk.com/public101385852) старонка пра жыццё і навуку
   - [«Без візы»](http://www.novisa.by/) «Без візы» імкнецца прасоўваць ідэю адмены візаў паміж Беларуссю і іншымі еўрапейскімі краінамі
   - [«Другой Мир»](http://www.bgclub.by/contacts/) клуб настольных игр в Минске
+  - [Беларуская асацыяцыя журналістаў](https://baj.by) белорусская ассоциация журналистов
+  - [adukacyja.info](http://adukacyja.info/pra-nas/) каманда аднадумцаў, для якіх адукацыя – стыль жыцця
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
@@ -98,7 +101,8 @@
   - [probusiness.by](http://probusiness.by) Ресурс для всех, кто интересуется бизнесом в Беларуси
   - [Belarus in English](http://belarusfeed.com/) English feed about Belarus from tut.by
   - [34mag.net](http://34mag.net/) Онлайн журнал
-  - [zautra.by](http://zautra.by) площадка для обсуждения будущего
+  - [zautra.by](http://zautra.by) Площадка для обсуждения будущего
+  - [www.kv.by](http://www.kv.by/) Ресурс для всех, кто интересуется технологиями
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
@@ -142,3 +146,5 @@
   - [gb.by](http://www.gb.by/) бухгалтерский портал
   - [ИП либо ООО в РБ](http://lpc.by/) пошаговая инструкция
   - [opencompany](https://github.com/abitrolly/opencompany) попытка создать открытую компанию в Беларуси и в е-Эстонии, сравнить опыт, научиться и протоптать тропинку для развития культуры открытости (open culture) в Республике Беларусь
+  - [adukacyja.info](http://adukacyja.info/prahramy/) спіс адукацыйных праграм у розных краінах свету
+  - [recoursia.by](http://recoursia.by) инструмент поиска и выбора учебных курсов
