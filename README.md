@@ -33,6 +33,7 @@
   - [«Другой Мир»](http://www.bgclub.by/contacts/) клуб настольных игр в Минске
   - [Беларуская асацыяцыя журналістаў](https://baj.by) белорусская ассоциация журналистов
   - [adukacyja.info](http://adukacyja.info/pra-nas/) каманда аднадумцаў, для якіх адукацыя – стыль жыцця
+  - [Minsk English Conversation Club](https://vk.com/club15675163) клуб общения на английском языке
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
