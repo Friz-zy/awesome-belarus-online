@@ -69,6 +69,7 @@
   - [The Rolling Scopes](https://www.facebook.com/groups/TheRollingScopes/) сообщество фронтенд и JavaScript разработчиков
   - [Belarus Kotlin User Group](https://www.bkug.by) сообщество Kotlin разработчиков
   - [Belarus Big Data User Group](https://www.vk.com/belarus.big_data.user.group) сообщество людей, интересующихся Big Data технологиями
+  - [Java Professionals BY](http://www.jprof.by/) сообщество Java разработчиков
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
