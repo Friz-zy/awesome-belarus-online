@@ -67,6 +67,7 @@
   - [.NET User Group](https://www.facebook.com/groups/dotnet.minsk/) сообщество .NET разработчиков
   - [FuncBY](https://www.facebook.com/groups/funcby/) объединение белорусских сообществ функционального программирования
   - [The Rolling Scopes](https://www.facebook.com/groups/TheRollingScopes/) сообщество фронтенд и JavaScript разработчиков
+  - [Belarus Kotlin User Group](https://www.bkug.by) сообщество Kotlin разработчиков
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
