@@ -73,6 +73,7 @@
   - [Belarus Big Data User Group](https://www.vk.com/belarus.big_data.user.group) сообщество людей, интересующихся Big Data технологиями
   - [Java Professionals BY](http://jprof.by) сообщество Java разработчиков
   - [MinskCSS](https://www.facebook.com/groups/MinskCSS/) митапы,посвящённые базовым языкам веба - HTML и CSS
+  - [PHP of BY](https://www.facebook.com/groups/minsk.user.group) сообщество PHP разработчиков
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
