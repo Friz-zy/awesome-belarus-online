@@ -140,7 +140,7 @@
   - [traveling.by](http://traveling.by) агрегатор туристических фирм и туров
   - [holiday.by](http://www.holiday.by) туристический портал и агрегатор туров
   - [BelStudy International](http://belstud.com/) официальным представителем школ, колледжей, университетов и языковых центров в разных странах мира
-  - [Revera](http://revera.by/) юридическом сопровождении бизнеса
+  - [Revera](http://revera.by/) юридическое сопровождение бизнеса
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
