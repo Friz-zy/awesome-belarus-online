@@ -35,6 +35,7 @@
   - [adukacyja.info](http://adukacyja.info/pra-nas/) каманда аднадумцаў, для якіх адукацыя – стыль жыцця
   - [Minsk English Conversation Club](https://vk.com/club15675163) клуб общения на английском языке
   - [Проект «Экватор»](https://vk.com/pinholequator_minsk) сообщество энтузиастов пинхол-фотографии и им сочувствующих
+  - [«Будзьма беларусамі!»](http://budzma.by) грамадская культурніцкая кампанія “Будзьма беларусамі!” дзейнічае дзеля паглыблення нацыянальнай ідэнтычнасці беларусаў
 
 ## Сharities
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
@@ -138,6 +139,8 @@
   - [Trust](http://trustlawfirm.by/) юридическая фирма
   - [traveling.by](http://traveling.by) агрегатор туристических фирм и туров
   - [holiday.by](http://www.holiday.by) туристический портал и агрегатор туров
+  - [BelStudy International](http://belstud.com/) официальным представителем школ, колледжей, университетов и языковых центров в разных странах мира
+  - [Revera](http://revera.by/) юридическом сопровождении бизнеса
 
 ## Information
   - [mir.pravo.by](http://mir.pravo.by/) детский правовой сайт
