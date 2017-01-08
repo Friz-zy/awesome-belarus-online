@@ -100,7 +100,7 @@
   - [nn.by](http://nn.by/) Первая булорусская газета
   - [euroradio.fm](http://euroradio.fm/) Еврорадио
   - [svaboda.org](http://www.svaboda.org/) Новостное Радио Свобода
-  - [ideaby.org](http://ideaby.org/) Онлайн журнал 
+  - [ideaby.org](http://ideaby.org/) Онлайн журнал
   - [journalby.com](http://journalby.com/about-project) Независимый аналитический журнал
   - [budzma.org](http://budzma.org/) Общественно-культурный ресурс “Будзьма беларусамі!”
   - [impressors.by](http://impressors.by/) Идеи и новинки из мира развлечений
@@ -113,6 +113,7 @@
   - [34mag.net](http://34mag.net/) Онлайн журнал
   - [zautra.by](http://zautra.by) Площадка для обсуждения будущего
   - [www.kv.by](http://www.kv.by/) Ресурс для всех, кто интересуется технологиями
+  - [binkl.by](http://binkl.by/) Онлайн журнал
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
