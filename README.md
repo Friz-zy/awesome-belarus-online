@@ -115,6 +115,7 @@
   - [www.kv.by](http://www.kv.by/) Ресурс для всех, кто интересуется технологиями
   - [binkl.by](http://binkl.by/) Онлайн журнал
   - [greenbelarus.info](http://greenbelarus.info/) Зялёны партал
+  - [redlipsjournal.com](https://redlipsjournal.com/) Журнал о стиле жизни для умных девушек
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
