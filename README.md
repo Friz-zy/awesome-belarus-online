@@ -76,6 +76,7 @@
   - [Java Professionals BY](http://jprof.by) сообщество Java разработчиков
   - [MinskCSS](https://www.facebook.com/groups/MinskCSS/) митапы,посвящённые базовым языкам веба - HTML и CSS
   - [PHP of BY](https://www.facebook.com/groups/minsk.user.group) сообщество PHP разработчиков
+  - [Product Managers Community](https://www.facebook.com/inproductshoes/) сообщество product менеджеров
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
@@ -119,6 +120,7 @@
   - [binkl.by](http://binkl.by/) Онлайн журнал
   - [greenbelarus.info](http://greenbelarus.info/) Зялёны партал
   - [redlipsjournal.com](https://redlipsjournal.com/) Журнал о стиле жизни для умных девушек
+  - [abw.by](https://www.abw.by/) Автомобильный интернет-портал
 
 ## Services
   - [civa.by](http://civa.by/) сервис для заказчиков и подрядчиков в строительстве и ремонте
