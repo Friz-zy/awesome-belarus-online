@@ -103,7 +103,7 @@
   - [belta.by](http://www.belta.by/) Новостной ресурс
   - [kaktutzhit.by](http://kaktutzhit.by/) Журнал о интересной и достойной жизни
   - [belarusdigest.com](http://belarusdigest.com/) Новости и Аналитика Белорусской политики
-  - [nn.by](http://nn.by/) Первая булорусская газета
+  - [nn.by](http://nn.by/) Первая белорусская газета
   - [euroradio.fm](http://euroradio.fm/) Еврорадио
   - [svaboda.org](http://www.svaboda.org/) Новостное Радио Свобода
   - [ideaby.org](http://ideaby.org/) Онлайн журнал
