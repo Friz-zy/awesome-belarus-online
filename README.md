@@ -5,7 +5,7 @@
 * [Расписание мероприятий](#events-schedule)
 * [Социальные группы и объединения](#social-groups)
 * [Благотворительность](#Сharities)
-* [Сообщества](#Сommunity)
+* [Сообщества](#Сommunities)
 * [Площадки](#playground)
 * [Новостные и развлекательные порталы](#media)
 * [Услуги](#services)
@@ -51,7 +51,7 @@
   - [Список мест, где примут ненужную одежду](http://citydog.by/post/kufar-odezhda/) Куда нести ненужную одежду
   - [Список мест, где примут детские игрушки](http://citydog.by/post/kufar-igrushki/) Куда нести игрушки и детские вещи
 
-## Сommunity
+## Сommunities
   - [Python](https://www.facebook.com/MinskPythonMeetup) eжемесячные встречи любителей языка Python в Минске
   - [Ruby](http://brug.by/) Ruby сообщество
   - [JavaScript](https://www.facebook.com/MinskJS) Front-end разработка
@@ -78,6 +78,7 @@
   - [MinskCSS](https://www.facebook.com/groups/MinskCSS/) митапы,посвящённые базовым языкам веба - HTML и CSS
   - [PHP of BY](https://www.facebook.com/groups/minsk.user.group) сообщество PHP разработчиков
   - [Product Managers Community](https://www.facebook.com/inproductshoes/) сообщество product менеджеров
+  - [belarusian-it-communities](https://github.com/gleb-kosteiko/belarusian-it-communities) больше белорусских IT-сообществ
 
 ## Playground
   - [eventspace.by](https://www.facebook.com/eventspace.by) площадка, объединяющая ИТ-сообщества, компании и специалистов
