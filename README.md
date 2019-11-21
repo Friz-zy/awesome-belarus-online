@@ -42,12 +42,9 @@
 ## Сharities
   - [imenamag.by](https://imenamag.by) онлайн журнал и фонд о\для помощи в социальных проблемах
   - [maesens.by](http://maesens.by/) благотворительный аукцион встреч "МаеСэнс"
-  - [opeka.by](http://www.opeka.by/) международное благотворительное общественное объединение «ЮниХелп» (ранее «Здоровье в XXI век»)
   - [pomogi.by](http://www.pomogi.by/) благотворительный фонд «Прикосновение к жизни»
   - [kidsmentor.org](http://kidsmentor.org/) поиск, обучение и сопровождение наставников для детей-сирот
-  - [newhospice.by](http://newhospice.by/) Белорусский детский хоспис (строительство нового здания хосписа)
   - [hospice.by](http://www.hospice.by) Белорусский детский хоспис
-  - [detdom2.org](http://detdom2.org/help.html) минский детский дом №2
   - [unihelp.by](https://unihelp.by) международная благотворительная организация
   - [chance.by](https://www.chance.by) международный благотворительный фонд помощи детям
   - [belapdi.org](http://belapdi.org) белорусская ассоциация помощи детям-инвалидам и молодым инвалидам
